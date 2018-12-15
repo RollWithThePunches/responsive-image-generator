@@ -15,4 +15,5 @@ Using Grunt with Graphicsmagick and ImageMagick to quickly generate responsive i
 - Place original images in `image_src`
 - Open `Gruntfile.js` and follow directions for changing sizes and quality
 - Open terminal and enter `grunt`
+- `images` folder will automatically be generated
 - Look in `images` for final responsive images

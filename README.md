@@ -2,7 +2,10 @@ Using Grunt with Graphicsmagick and ImageMagick to quickly generate responsive i
 
 ## Installation
 
-1.  `npm install -g grunt`
+1.  `npm i`
+2.  `npm install grunt`
+3.  `npm install graphicsmagick`
+4.  `npm install imagemagick`
 2.  `brew install graphicsmagick`
 3.  `brew install imagemagick`
 
